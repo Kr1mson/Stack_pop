@@ -1,0 +1,32 @@
+# requirements.txt
+
+# Core ML/DL frameworks
+tensorflow>=2.8.0
+tensorflow-hub
+torch
+transformers
+sentence-transformers
+
+# Data handling
+pandas
+datasets
+numpy
+
+# NLP preprocessing
+nltk
+preprocessor
+beautifulsoup4
+
+# Sklearn for ML utilities and metrics
+scikit-learn
+
+# Progress bar for loops
+tqdm
+
+# Plotting
+matplotlib
+
+# Optional: For displaying confusion matrices
+seaborn
+
+# Note: If running on Kaggle or Colab, some packages may already be installed.
