@@ -45,7 +45,7 @@ All models are fine-tuned on the same dataset for consistent benchmarking and co
 
 - Python 3.8+
 - Jupyter Notebook
-- PyTorch or TensorFlow (as required by Hugging Face Transformers)
+- PyTorch
 - `transformers`, `datasets`, `pandas`, `scikit-learn`, and other standard ML/NLP libraries
 
 **Setup:**
